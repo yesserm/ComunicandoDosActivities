@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dos Ventanas</string>
+    <string name="bt_segunda">Abrir activity</string>
+    <string name="et_nombre">Ingrese su nombre</string>
+</resources>
